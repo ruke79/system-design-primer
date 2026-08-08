@@ -246,10 +246,10 @@
 
 ### 3단계: 핵심 컴포넌트 설계하기
 
-각 핵심 컴포넌트를 깊이 파고듭니다. 예를 들어 [URL 단축 서비스 설계](solutions/system_design/pastebin/README.md)를 요청받았다면 다음을 논의합니다.
+각 핵심 컴포넌트를 깊이 파고듭니다. 예를 들어 [URL 단축 서비스 설계](solutions/system_design/pastebin/README-ko.md)를 요청받았다면 다음을 논의합니다.
 
 * 전체 URL의 해시를 생성하고 저장하기
-    * [MD5](solutions/system_design/pastebin/README.md)와 [Base62](solutions/system_design/pastebin/README.md)
+    * [MD5](solutions/system_design/pastebin/README-ko.md)와 [Base62](solutions/system_design/pastebin/README-ko.md)
     * 해시 충돌
     * SQL이냐 NoSQL이냐
     * 데이터베이스 스키마
@@ -293,61 +293,61 @@
 
 | 문제 | |
 |---|---|
-| Pastebin.com(또는 Bit.ly) 설계하기 | [해답](solutions/system_design/pastebin/README.md) |
-| 트위터 타임라인과 검색(또는 페이스북 피드와 검색) 설계하기 | [해답](solutions/system_design/twitter/README.md) |
-| 웹 크롤러 설계하기 | [해답](solutions/system_design/web_crawler/README.md) |
-| Mint.com 설계하기 | [해답](solutions/system_design/mint/README.md) |
-| 소셜 네트워크를 위한 자료구조 설계하기 | [해답](solutions/system_design/social_graph/README.md) |
-| 검색 엔진을 위한 키-값 저장소 설계하기 | [해답](solutions/system_design/query_cache/README.md) |
-| 아마존의 카테고리별 판매 순위 기능 설계하기 | [해답](solutions/system_design/sales_rank/README.md) |
-| AWS에서 수백만 사용자까지 확장되는 시스템 설계하기 | [해답](solutions/system_design/scaling_aws/README.md) |
+| Pastebin.com(또는 Bit.ly) 설계하기 | [해답](solutions/system_design/pastebin/README-ko.md) |
+| 트위터 타임라인과 검색(또는 페이스북 피드와 검색) 설계하기 | [해답](solutions/system_design/twitter/README-ko.md) |
+| 웹 크롤러 설계하기 | [해답](solutions/system_design/web_crawler/README-ko.md) |
+| Mint.com 설계하기 | [해답](solutions/system_design/mint/README-ko.md) |
+| 소셜 네트워크를 위한 자료구조 설계하기 | [해답](solutions/system_design/social_graph/README-ko.md) |
+| 검색 엔진을 위한 키-값 저장소 설계하기 | [해답](solutions/system_design/query_cache/README-ko.md) |
+| 아마존의 카테고리별 판매 순위 기능 설계하기 | [해답](solutions/system_design/sales_rank/README-ko.md) |
+| AWS에서 수백만 사용자까지 확장되는 시스템 설계하기 | [해답](solutions/system_design/scaling_aws/README-ko.md) |
 | 시스템 설계 문제 추가하기 | [기여하기](#기여하기) |
 
 ### Pastebin.com(또는 Bit.ly) 설계하기
 
-[문제와 해답 보기](solutions/system_design/pastebin/README.md)
+[문제와 해답 보기](solutions/system_design/pastebin/README-ko.md)
 
 ![Imgur](images/4edXG0T.png)
 
 ### 트위터 타임라인과 검색(또는 페이스북 피드와 검색) 설계하기
 
-[문제와 해답 보기](solutions/system_design/twitter/README.md)
+[문제와 해답 보기](solutions/system_design/twitter/README-ko.md)
 
 ![Imgur](images/jrUBAF7.png)
 
 ### 웹 크롤러 설계하기
 
-[문제와 해답 보기](solutions/system_design/web_crawler/README.md)
+[문제와 해답 보기](solutions/system_design/web_crawler/README-ko.md)
 
 ![Imgur](images/bWxPtQA.png)
 
 ### Mint.com 설계하기
 
-[문제와 해답 보기](solutions/system_design/mint/README.md)
+[문제와 해답 보기](solutions/system_design/mint/README-ko.md)
 
 ![Imgur](images/V5q57vU.png)
 
 ### 소셜 네트워크를 위한 자료구조 설계하기
 
-[문제와 해답 보기](solutions/system_design/social_graph/README.md)
+[문제와 해답 보기](solutions/system_design/social_graph/README-ko.md)
 
 ![Imgur](images/cdCv5g7.png)
 
 ### 검색 엔진을 위한 키-값 저장소 설계하기
 
-[문제와 해답 보기](solutions/system_design/query_cache/README.md)
+[문제와 해답 보기](solutions/system_design/query_cache/README-ko.md)
 
 ![Imgur](images/4j99mhe.png)
 
 ### 아마존의 카테고리별 판매 순위 기능 설계하기
 
-[문제와 해답 보기](solutions/system_design/sales_rank/README.md)
+[문제와 해답 보기](solutions/system_design/sales_rank/README-ko.md)
 
 ![Imgur](images/MzExP06.png)
 
 ### AWS에서 수백만 사용자까지 확장되는 시스템 설계하기
 
-[문제와 해답 보기](solutions/system_design/scaling_aws/README.md)
+[문제와 해답 보기](solutions/system_design/scaling_aws/README-ko.md)
 
 ![Imgur](images/jj3A5N8.png)
 
