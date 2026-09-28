@@ -361,12 +361,12 @@
 
 | 문제 | |
 |---|---|
-| 해시 맵 설계하기 | [해답](solutions/object_oriented_design/hash_table/hash_map.ipynb)  |
-| LRU(Least Recently Used) 캐시 설계하기 | [해답](solutions/object_oriented_design/lru_cache/lru_cache.ipynb)  |
-| 콜센터 설계하기 | [해답](solutions/object_oriented_design/call_center/call_center.ipynb)  |
-| 카드 덱 설계하기 | [해답](solutions/object_oriented_design/deck_of_cards/deck_of_cards.ipynb)  |
-| 주차장 설계하기 | [해답](solutions/object_oriented_design/parking_lot/parking_lot.ipynb)  |
-| 채팅 서버 설계하기 | [해답](solutions/object_oriented_design/online_chat/online_chat.ipynb)  |
+| 해시 맵 설계하기 | [해답](solutions/object_oriented_design/hash_table/hash_map-ko.ipynb)  |
+| LRU(Least Recently Used) 캐시 설계하기 | [해답](solutions/object_oriented_design/lru_cache/lru_cache-ko.ipynb)  |
+| 콜센터 설계하기 | [해답](solutions/object_oriented_design/call_center/call_center-ko.ipynb)  |
+| 카드 덱 설계하기 | [해답](solutions/object_oriented_design/deck_of_cards/deck_of_cards-ko.ipynb)  |
+| 주차장 설계하기 | [해답](solutions/object_oriented_design/parking_lot/parking_lot-ko.ipynb)  |
+| 채팅 서버 설계하기 | [해답](solutions/object_oriented_design/online_chat/online_chat-ko.ipynb)  |
 | 원형 배열 설계하기 | [기여하기](#기여하기)  |
 | 객체지향 설계 문제 추가하기 | [기여하기](#기여하기) |
 
